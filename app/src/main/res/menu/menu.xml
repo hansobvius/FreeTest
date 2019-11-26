@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/transition_manager"
+        android:title="Transition Manager"
+        android:orderInCategory="1"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/transition_activity"
+        android:title="Transition Activity"
+        android:orderInCategory="2"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/image_transition"
+        android:title="Image Transition"
+        android:orderInCategory="3"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/collapsing_toolbar_activity"
+        android:title="Toolbar Collapsing"
+        android:orderInCategory="4"
+        app:showAsAction="never"/>
+
+</menu>

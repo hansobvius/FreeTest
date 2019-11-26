@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FreeTest</string>
+    <string name="hello">Hello World</string>
+    <string name="recent_news">Look to the recent news!!!</string>
+    <string name="text_news">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit</string>
+    <string name="release_date">26-08-2018</string>
+</resources>
